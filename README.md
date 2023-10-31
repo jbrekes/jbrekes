@@ -1,5 +1,5 @@
 # 💫 About Me:
-🗸 I am currently working at Jam City as a Senior Data Analyst while doing some personal side projects.<br> 🗸 I am looking to collaborate on various data related projects, from data visualization to data pipelines and process orchestration.<br> 🗸 I am currently learning some data engineering skills to improve my technical side.<br> 🗸 Ask me anything about data, I'm passionate about extracting meaningful insights from raw data and getting to know what the numbers are telling us.
+🗸 I am currently working at Jam City as a SSr Data Analyst while doing some personal side projects.<br> 🗸 I am looking to collaborate on various data related projects, from data visualization to data pipelines and process orchestration.<br> 🗸 I am currently learning some data engineering skills to improve my technical side.<br> 🗸 Ask me anything about data, I'm passionate about extracting meaningful insights from raw data and getting to know what the numbers are telling us.
 
 
 ## 🌐 Socials:
